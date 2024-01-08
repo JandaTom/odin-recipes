@@ -1,0 +1,27 @@
+
+body {
+background-color: gray;
+}
+
+h1 {
+margin: 0px;
+padding: 30px;
+border: 2px solid black;
+text-align: center;
+font-size: 48px;
+color: black;
+background-color: grey;
+}
+
+a {
+    font-size: 26px;
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+.span-red {
+    color: rgb(128, 18, 18);
+}
